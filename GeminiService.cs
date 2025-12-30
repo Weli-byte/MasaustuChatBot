@@ -10,7 +10,7 @@ namespace MasaustuChatBot // <-- BURAYI KONTROL ET: Proje isminle aynı olmalı
     public class GeminiService
     {
         // 1. DİKKAT: API Anahtarını tırnakların içine yapıştır (Boşluk bırakma!)
-        private const string ApiKey = "AIzaSyCkqwkTse54w0hNo9xGQd99qiF8r5ui-Yw";
+        private const string ApiKey = "AIzaSyCgb_nRzXZwQ484bNxpbmkHRuUM1wKq-Zk";
 
         // 2. GÜNCELLEME: Artık 'gemini-2.5-flash' modelini kullanıyoruz.
         private const string ApiUrl = "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key=";
